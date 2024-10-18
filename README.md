@@ -2,9 +2,10 @@
 
 ### About me
 
-💻 Eu sou um desenvolvedor FullStack e Mobile 
+💻 I'm a FullStack and Mobile developer with over 10 years of experience and passionate about sharing knowledge. 
 
-👩‍💻 Atualmente eu trabalho como Desenvolvedor FullStack e Instrutor no  @senai
+👩‍💻 Currently I work as a FullStack Developer and Instructor at @senai, I work with high-performance projects and I've helped hundreds of students take their first steps in deveoper career.
+
 
 ### My specialty... 🔧
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
