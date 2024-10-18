@@ -1,10 +1,10 @@
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Julio Xavier 👋
 
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
 
-👩‍💻 Atualmente eu trabalho como Desenvolvedor e Instrutor no  @senai
+👩‍💻 Atualmente eu trabalho como Desenvolvedor FullStack e Instrutor no  @senai
 
 ### Eu já trabalhei com... 🔧
 
