@@ -9,7 +9,7 @@ I build scalable SaaS platforms and high-traffic systems with focus on architect
 ---
 
 ## 🔧 Tech Stack
-**Backend:** Node.js, NestJS, PHP (Laravel)  
+**Backend:** Node.js, NestJS, PHP (Laravel), C#
 **Frontend:** React, React Native  
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Messaging & Cache:** Redis, RabbitMQ  
