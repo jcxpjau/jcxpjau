@@ -1,9 +1,9 @@
 # Julio Xavier 👋  
 Senior Software Engineer (Backend / Full Stack)
 
-I build scalable SaaS platforms and high-traffic systems with focus on backend architecture, performance, and reliability.
+I build scalable SaaS platforms and high-traffic systems with focus on architecture, performance, and reliability.
 
-💻 Node.js | NestJS | TypeScript | React | Redis | Docker | AWS  
+💻 Node.js | NestJS | TypeScript | React | React Native| Redis | Docker | AWS  
 🤖 AI integrations & workflow automation (n8n)
 
 ---
